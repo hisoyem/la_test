@@ -1,0 +1,18 @@
+import cowsay
+
+cowsay.meow('meow')
+cowsay.milk('milk')
+cowsay.trex('trex')
+cowsay.cow('cow')
+cowsay.beavis('beavis')
+cowsay.cheese('cheese')
+cowsay.daemon('daemon')
+cowsay.dragon('dragon')
+cowsay.ghostbusters('ghostbusters')
+cowsay.kitty('kitty')
+cowsay.pig('pig')
+cowsay.stegosaurus('stegosauros')
+cowsay.stimpy('stimpy')
+cowsay.turkey('turkey')
+cowsay.turtle('turtle')
+cowsay.tux('tux')
